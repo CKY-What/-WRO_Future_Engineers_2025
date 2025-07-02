@@ -1,11 +1,11 @@
-<div align="center">
+v<div align="center">
   <h1>What.</h1>
 </div>
 
 <table>
   <tr>
     <td width="50%" style="text-align: left;">
-      <img src="" alt="Medium Motor" width="100%">
+      <img src="readmefiles/mediummotor.jpg" alt="Medium Motor" width="100%">
     </td>
     <td width="50%" style="text-align: left; vertical-align: top;">
       <h3>Specifications:</h3>
