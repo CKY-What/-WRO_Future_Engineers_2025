@@ -12,7 +12,6 @@
       <li>Voltage: 9V</li>
       <li>Speed: 250RPM Max</li>
       <li>Torque: 8N/Cm</li>
-      <li>Torque: 0.67 ± kg·cm</li>
       <li>Weight: 41g</li>
       </li>
     </td>
